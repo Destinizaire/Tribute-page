@@ -1,0 +1,14 @@
+
+h1 {
+  color:yellow;
+  text-shadow:2px 2px 5px grey;
+}
+
+body {
+  background-color:black;
+  color:white;
+  background-image:url("https://pyxis.nymag.com/v1/imgs/ee0/bcc/a712e468e4e799b7e30609c5ffacf252ff-beyonce.rsquare.w330.jpg");
+  text-align:center;
+  font-weight:bold;
+}
+
